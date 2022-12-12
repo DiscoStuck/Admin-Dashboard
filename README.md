@@ -1,5 +1,5 @@
 # Admin-Dashboard
-![Screenshot of the project](dashboard.jpg)
+![Screenshot of the project](dashboard-project.png)
 
 ## The Odin Project
 - This is a project done following the course "The Odin Project".
